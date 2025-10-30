@@ -5,11 +5,11 @@ This is packaging for [`bcvk`](https://github.com/bootc-dev/bcvk) on [Homebrew](
 ## How do I get these
 
 ```bash
-brew install tulilirockz/bcvk
+brew install tulilirockz/bcvk/bcvk
 ```
 
 You can also download the latest dev version by running this instead:
 
 ```bash
-brew install --head tulilirockz/bcvk
+brew install --head tulilirockz/bcvk/bcvk
 ```
