@@ -1,8 +1,8 @@
 class Bcvk < Formula
   desc "Bootc virtualization kit - launch ephemeral VMs and create disk images from bootc containers"
   homepage "https://github.com/bootc-dev/bcvk"
-  url "https://github.com/bootc-dev/bcvk/archive/refs/tags/v0.11.0.tar.gz"
-  sha256 "ba11d34be9dde77e159b149fb4c00dc01296803a8c2e592a0ffc65d705e492ec"
+  url "https://github.com/bootc-dev/bcvk/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "2c5686f0b3de4492768e49b1debc1b3b85ad48d91f65bf8996738d09713430b8"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/bootc-dev/bcvk.git", branch: "main"
 
